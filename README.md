@@ -1,2 +1,5 @@
-# node-
-来自网上教程，自己实践的代码托管
+# learn-node
+
+教程地址：
+[英文介绍及购买](https://www.nodebeginner.org/)
+[中文PDF下载地址](http://www.java1234.com/a/javabook/webbase/2016/0526/6162.html)
